@@ -1,9 +1,0 @@
-Yoda,Husky,1,https://ro.wikipedia.org/wiki/Husky_Siberian#/media/Fi%C8%99ier:Siberian-husky.jpg
-Rex,Husky,5,https://ro.wikipedia.org/wiki/Husky_Siberian#/media/Fi%C8%99ier:Siberian-husky.jpg
-Bruno,Labrador Retriever,2,https://en.wikipedia.org/wiki/Labrador_Retriever#/media/File:Labrador_on_Quantock_(2175262184).jpg
-Coco,Chow chow,7,https://ro.wikipedia.org/wiki/Chow_chow#/media/Fi%C8%99ier:01_Chow_Chow.jpg
-Falco,Labrador Retriever,1,https://en.wikipedia.org/wiki/Labrador_Retriever#/media/File:Labrador_on_Quantock_(2175262184).jpg
-Kiki,Chow chow,4,https://ro.wikipedia.org/wiki/Chow_chow#/media/Fi%C8%99ier:01_Chow_Chow.jpg
-Aky,Golden Retriever,1,https://ro.wikipedia.org/wiki/Golden_Retriever#/media/Fi%C8%99ier:Golde33443.jpg
-s,s,1,sa
-Grivei,Golden Retriever,5,https://ro.wikipedia.org/wiki/Golden_Retriever#/media/Fi%C8%99ier:Golde33443.jpg
